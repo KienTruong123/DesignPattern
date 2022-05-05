@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ConsoleApp1\obj\Debug\net5.0\EncapsulateCollection.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ConsoleApp1\obj\Debug\net5.0\EncapsulateCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ConsoleApp1\obj\Debug\net5.0\EncapsulateCollection.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ConsoleApp1\obj\Debug\net5.0\EncapsulateCollection.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ConsoleApp1\obj\Debug\net5.0\EncapsulateCollection.csproj.CoreCompileInputs.cache

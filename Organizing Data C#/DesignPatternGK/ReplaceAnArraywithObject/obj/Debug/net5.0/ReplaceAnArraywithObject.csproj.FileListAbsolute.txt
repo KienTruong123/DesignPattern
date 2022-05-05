@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\obj\Debug\net5.0\ReplaceAnArraywithObject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\obj\Debug\net5.0\ReplaceAnArraywithObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\obj\Debug\net5.0\ReplaceAnArraywithObject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\obj\Debug\net5.0\ReplaceAnArraywithObject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\obj\Debug\net5.0\ReplaceAnArraywithObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\bin\Debug\net5.0\ReplaceAnArraywithObject.exe
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\bin\Debug\net5.0\ReplaceAnArraywithObject.deps.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\bin\Debug\net5.0\ReplaceAnArraywithObject.runtimeconfig.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\bin\Debug\net5.0\ReplaceAnArraywithObject.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\bin\Debug\net5.0\ReplaceAnArraywithObject.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\bin\Debug\net5.0\ref\ReplaceAnArraywithObject.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\bin\Debug\net5.0\ReplaceAnArraywithObject.pdb
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\obj\Debug\net5.0\ReplaceAnArraywithObject.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\obj\Debug\net5.0\ref\ReplaceAnArraywithObject.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\obj\Debug\net5.0\ReplaceAnArraywithObject.pdb
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceAnArraywithObject\obj\Debug\net5.0\ReplaceAnArraywithObject.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\bin\Debug\net5.0\ReplaceRecordwithDataClass.exe
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\bin\Debug\net5.0\ReplaceRecordwithDataClass.deps.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\bin\Debug\net5.0\ReplaceRecordwithDataClass.runtimeconfig.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\bin\Debug\net5.0\ReplaceRecordwithDataClass.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\bin\Debug\net5.0\ReplaceRecordwithDataClass.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\bin\Debug\net5.0\ref\ReplaceRecordwithDataClass.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\bin\Debug\net5.0\ReplaceRecordwithDataClass.pdb
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\obj\Debug\net5.0\ReplaceRecordwithDataClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\obj\Debug\net5.0\ReplaceRecordwithDataClass.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\obj\Debug\net5.0\ReplaceRecordwithDataClass.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\obj\Debug\net5.0\ReplaceRecordwithDataClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\obj\Debug\net5.0\ReplaceRecordwithDataClass.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\obj\Debug\net5.0\ref\ReplaceRecordwithDataClass.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\obj\Debug\net5.0\ReplaceRecordwithDataClass.pdb
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceRecordwithDataClass\obj\Debug\net5.0\ReplaceRecordwithDataClass.genruntimeconfig.cache

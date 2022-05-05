@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\bin\Debug\net5.0\SelfEncapsulateField.exe
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\bin\Debug\net5.0\SelfEncapsulateField.deps.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\bin\Debug\net5.0\SelfEncapsulateField.runtimeconfig.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\bin\Debug\net5.0\SelfEncapsulateField.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\bin\Debug\net5.0\SelfEncapsulateField.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\bin\Debug\net5.0\ref\SelfEncapsulateField.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\bin\Debug\net5.0\SelfEncapsulateField.pdb
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\obj\Debug\net5.0\SelfEncapsulateField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\obj\Debug\net5.0\SelfEncapsulateField.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\obj\Debug\net5.0\SelfEncapsulateField.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\obj\Debug\net5.0\SelfEncapsulateField.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\obj\Debug\net5.0\SelfEncapsulateField.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\obj\Debug\net5.0\ref\SelfEncapsulateField.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\obj\Debug\net5.0\SelfEncapsulateField.pdb
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\SelfEncapsulateField\obj\Debug\net5.0\SelfEncapsulateField.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\bin\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.exe
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\bin\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.deps.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\bin\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.runtimeconfig.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\bin\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\bin\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\bin\Debug\net5.0\ref\ReplaceMagicNumberwithSymbolicConstant.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\bin\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.pdb
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\obj\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\obj\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\obj\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\obj\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\obj\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\obj\Debug\net5.0\ref\ReplaceMagicNumberwithSymbolicConstant.dll
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\obj\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.pdb
+C:\Users\Admin\Desktop\DesignPattern\DesignPatternGK\ReplaceMagicNumberwithSymbolicConstant\obj\Debug\net5.0\ReplaceMagicNumberwithSymbolicConstant.genruntimeconfig.cache
